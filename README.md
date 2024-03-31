@@ -1,6 +1,7 @@
 # Awesome-RL-Privacy-and-Security
  A curated list of papers and resources in RL privacy &amp; security.
 ## Contents
+- [Survey](#awesome-suvey-papers)
 - [RL Security](#Awesome-RL-Security-Papers)
    - [Backdoor Attack](#backdoor-attack) 
    - [Backdoor Defense](#backdoor-defense) 
