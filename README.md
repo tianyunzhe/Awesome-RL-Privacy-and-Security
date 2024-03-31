@@ -5,6 +5,10 @@
    - [Backdoor Attack](#backdoor-attack) 
    - [Backdoor Defense](#backdoor-defense) 
 - [RL Privacy](#Awesome-RL-Privacy-Papers)
+   - [Environment Privacy Attack](#environment-privacy-attack)
+   - [Model Privacy Attack](#model-privacy-attack)
+   - [Reward Privacy Attack](#reward-privacy-attack)
+   - [Privacy-preserving RL](#privacy-preserving-rl)
 
 
 
@@ -57,11 +61,33 @@
 
 ## Awesome-RL-Privacy-Papers
 
-* [2019-AAMAS] **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning.** [[Paper](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p368.pdf)][[Code](https://github.com/xinleipan/gym-gridworld)]
+### Environment Privacy Attack
+
+* [2019-AAMAS] **How You Act Tells a Lot: Privacy-Leaking Attack on Deep Reinforcement Learning** [[Paper](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p368.pdf)][[Code](https://github.com/xinleipan/gym-gridworld)]
+
+
+* [2023-Access] **Membership Inference Attacks Against Temporally Correlated Data in Deep Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2109.03975.pdf)]
+
+* [2023-Connection Science] **Empirical study of privacy inference attack against deep reinforcement learning models** [[Paper](https://www.tandfonline.com/doi/pdf/10.1080/09540091.2023.2211240)]
+
+### Model Privacy Attack
+* [2019-arXiv] **Adversarial Exploitation of Policy Imitation** [[Paper](https://arxiv.org/pdf/1906.01121.pdf)]
+
+* [2021-Asia CCS] **Stealing Deep Reinforcement Learning Models for Fun and Profit** [[Paper](https://arxiv.org/pdf/2006.05032.pdf)]
+
+### Reward Privacy Attack
+
+
+[2022-AAAI] **How Private Is Your RL Policy? An Inverse RL Based Analysis Framework** [[Paper](https://arxiv.org/pdf/2112.05495.pdf)][[Code](https://github.com/magnetar-iiith/PRIL)]
+
+### Privacy-preserving RL
+
+
+* [2020-arXiv] **Preventing Imitation Learning with Adversarial Policy Ensembles** [[Paper](https://arxiv.org/pdf/2002.01059.pdf)]
 
 * [2021-AAMAS] **Deceptive Reinforcement Learning for Privacy-Preserving Planning** [[Paper](https://arxiv.org/pdf/2102.03022.pdf)]
 
 * [2021-SRDS] **Protecting Reward Function of Reinforcement Learning via Minimal and Non-catastrophic Adversarial Trajectory** [[Paper](https://ieeexplore.ieee.org/abstract/document/9603589)]
 
-* [2023-Access] **Membership Inference Attacks Against Temporally Correlated Data in Deep Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2109.03975.pdf)]
+
 
