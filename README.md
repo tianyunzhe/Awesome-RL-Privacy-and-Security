@@ -34,7 +34,7 @@
 
 * [2024-AAAI] **BadRL: Sparse Targeted Backdoor Attack Against Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2312.12585.pdf)][[Code](https://github.com/7777777cc/code)]
 
-* [2022-arXiv] **Execute Order 66: Targeted Data Poisoning for Reinforcement Learning** [[Paper](https://arxiv.org/abs/2201.00762)][[Code]]
+* [2022-arXiv] **Execute Order 66: Targeted Data Poisoning for Reinforcement Learning** [[Paper](https://arxiv.org/abs/2201.00762)][[Code]
 
 #### Multi-agent RL
 
