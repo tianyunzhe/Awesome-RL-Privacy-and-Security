@@ -101,5 +101,6 @@
 
 * [2021-SRDS] **Protecting Reward Function of Reinforcement Learning via Minimal and Non-catastrophic Adversarial Trajectory** [[Paper](https://ieeexplore.ieee.org/abstract/document/9603589)]
 
+* [2023-arXiv] **Reinforcement Unlearning** [[Paper](https://arxiv.org/pdf/2312.15910)]
 
 
