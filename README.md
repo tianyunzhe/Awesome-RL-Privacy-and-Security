@@ -84,6 +84,10 @@
 * [2023-Connection Science] **Empirical study of privacy inference attack against deep reinforcement learning models** [[Paper](https://www.tandfonline.com/doi/pdf/10.1080/09540091.2023.2211240)]
 
 * [2023-arXiv] **Your Room is not Private: Gradient Inversion Attack on Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2306.09273)]
+* 
+* [2023-arXiv] **Value-Based Membership Inference Attack on Actor-Critic Reinforcement Learning** [[Paper](https://openreview.net/pdf?id=wKIxJKTDmX-)]
+
+
 
 ### Model Privacy Attack
 * [2019-arXiv] **Adversarial Exploitation of Policy Imitation** [[Paper](https://arxiv.org/pdf/1906.01121.pdf)]
