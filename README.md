@@ -91,7 +91,7 @@
 ### Reward Privacy Attack
 
 
-* [2022-AAAI] **How Private Is Your RL Policy? An Inverse RL Based Analysis Framework** [[Paper]([https://arxiv.org/pdf/2112.05495.pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20772))][[Code](https://github.com/magnetar-iiith/PRIL)]
+* [2022-AAAI] **How Private Is Your RL Policy? An Inverse RL Based Analysis Framework** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20772)][[Code](https://github.com/magnetar-iiith/PRIL)]
 
 ### Privacy-preserving RL
 
