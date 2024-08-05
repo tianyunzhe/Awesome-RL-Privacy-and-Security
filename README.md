@@ -61,7 +61,7 @@
 
 * [2023-arXiv] **Recover Triggered States: Protect Model Against Backdoor Attack in Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2304.00252.pdf)]
 
-* [2023-NeurIPS] **BIRD: Generalizable Backdoor Detection and Removal for Deep Reinforcement Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/802e90325f4c8546e13e5763b2ecab88-Paper-Conference.pdf)]
+* [2023-NeurIPS] **BIRD: Generalizable Backdoor Detection and Removal for Deep Reinforcement Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/802e90325f4c8546e13e5763b2ecab88-Paper-Conference.pdf)][[Code](https://github.com/ucsb-mlsec/bird)]
 
 * [2024] **SHINE: Shielding Backdoors in Deep Reinforcement Learning** [[Paper](https://openreview.net/forum?id=AKAlVyunxA)]
 
