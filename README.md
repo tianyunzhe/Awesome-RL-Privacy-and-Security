@@ -26,7 +26,7 @@
 
 * [2019-arXiv] **Design of Intentional Backdoors in Sequential Models** [[Paper](https://arxiv.org/pdf/1902.09972)]
 
-* [2020-DAC] **TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning** [[Paper](https://ieeexplore.ieee.org/abstract/document/9218663)]
+* [2020-DAC] **TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning** [[Paper](https://ieeexplore.ieee.org/abstract/document/9218663)][[Code](https://github.com/pkiourti/rl_backdoor)]
 
 * [2021-ICLR workshop] **Poisoning Deep Reinforcement Learning Agents with In-Distribution Triggers** [[Paper](https://arxiv.org/pdf/2106.07798.pdf)][[Code](https://github.com/trojai/trojai_rl)]
 
